@@ -2,10 +2,10 @@
   "name": "nxtsec",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "npm start index.js"
+    "start": "npm start server.js"
   },
   "repository": {
     "type": "git",
